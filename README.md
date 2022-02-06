@@ -79,6 +79,7 @@ https://www.ozon.ru/product/sam-sebe-programmist-kak-nauchitsya-programmirovat-i
 
 1. Искусственные нейроны, синапс
 2. Перцептрон. Примеры
+
 В лекции необходимо описать:
 - входной слой
 - скрытый слой
